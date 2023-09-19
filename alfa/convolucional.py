@@ -14,3 +14,5 @@ modelo = tf.keras.Sequential([
     tf.keras.layers.Dense(units=10, activation="softmax")
 
 ])
+
+#9z
